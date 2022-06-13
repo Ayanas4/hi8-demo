@@ -1,5 +1,6 @@
 # hi8-demo
 
 
-
-![20220613_150955](https://user-images.githubusercontent.com/89436529/173301275-86a5644e-40d8-4130-a037-50d14cda48e2.gif)
+# 加入購物車
+###可對商品進行新增或刪除
+![20220613_150912](https://user-images.githubusercontent.com/89436529/173301632-012d81e1-3c17-46a4-922a-af30cab6946c.gif)

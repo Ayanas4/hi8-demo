@@ -1,4 +1,5 @@
 # hi8-demo
 
 
-![image](https://github.com/Ayanas4/hi8-demo/blob/master/20220613_145911.gif)
+
+![20220613_150955](https://user-images.githubusercontent.com/89436529/173301275-86a5644e-40d8-4130-a037-50d14cda48e2.gif)
